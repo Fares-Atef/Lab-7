@@ -1,0 +1,38 @@
+{
+    "courses": [
+        {
+        "courseId": "CS101",
+        "courseName": "Introduction to Computer Science",
+        "instructor": "Dr. Smith",
+        "credits": 3
+        },
+
+        {
+        "courseId": "MATH201",
+        "courseName": "Calculus I",
+        "instructor": "Prof. Johnson",
+        "credits": 4
+        },
+
+        {
+        "courseId": "ENG150",
+        "courseName": "English Literature",
+        "instructor": "Dr. Brown",
+        "credits": 3
+        },
+
+        {
+        "courseId": "HIST210",
+        "courseName": "World History",
+        "instructor": "Dr. Green",
+        "credits": 3
+        },
+
+        {
+        "courseId": "PHYS110",
+        "courseName": "Physics I",
+        "instructor": "Dr. White",
+        "credits": 4
+        }
+    ]
+}
