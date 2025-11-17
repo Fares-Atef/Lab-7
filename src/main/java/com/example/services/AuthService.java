@@ -136,4 +136,6 @@ public class AuthService {
         }
         System.out.println(user.getUserName() + " logged out successfully!");
     }
+public class AuthService {
+    
 }
